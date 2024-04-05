@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Robin NTW : http://localhost:${port}`);
-  console.log(`🔗 Powered By Robinayush`);
+  console.log(`🔗 Listening to KingOfficer : http://localhost:${port}`);
+  console.log(`🔗 Powered By KingOfficerBots`);
 });
 
 
-const statusMessages = ["Watching https://dsc.gg/zepsrealm"];
+const statusMessages = ["Watching dsc.gg/zepsrealm"];
 
 
 let currentIndex = 0;
