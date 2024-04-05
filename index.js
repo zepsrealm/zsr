@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Zepstro","Playing Zep's Realm"];
+const statusMessages = ["Watching https://dsc.gg/zepsrealm"];
 
 
 let currentIndex = 0;
