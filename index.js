@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⚠️The bot has been having some bugs, our dev team is looking into it."];
+const statusMessages = ["https://dsc.gg/zepsrealm"];
 
 
 let currentIndex = 0;
